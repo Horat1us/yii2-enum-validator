@@ -47,7 +47,7 @@ jobs:
         run: composer run-script lint
 
       - name: Run PHPUnit tests
-        run: composer run-script cover-xml
+        run: composer run-script cover
 
       - name: Upload coverage to CodeCov
         uses: codecov/codecov-action@v1
