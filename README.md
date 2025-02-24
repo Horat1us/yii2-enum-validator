@@ -3,6 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/horat1us/yii2-enum-validator/v/stable)](https://packagist.org/packages/horat1us/yii2-enum-validator)
 [![Total Downloads](https://poser.pugx.org/horat1us/yii2-enum-validator/downloads)](https://packagist.org/packages/horat1us/yii2-enum-validator)
 [![License](https://poser.pugx.org/horat1us/yii2-enum-validator/license)](https://packagist.org/packages/horat1us/yii2-enum-validator)
+[![PHP Tests](https://github.com/Horat1us/yii2-enum-validator/actions/workflows/php.yml/badge.svg)](https://github.com/Horat1us/yii2-enum-validator/actions/workflows/php.yml)
 
 Simple validator for PHP 8.1+ Enums in Yii2 Framework based on RangeValidator.
 
