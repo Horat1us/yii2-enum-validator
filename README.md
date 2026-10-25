@@ -7,6 +7,8 @@
 
 Simple validator for PHP 8.1+ Enums in Yii2 Framework based on RangeValidator.
 
+Compatibility: tested on PHP 8.4, PHP 8.5
+
 ## Installation
 
 ```bash
